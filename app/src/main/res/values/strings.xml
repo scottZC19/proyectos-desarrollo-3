@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsActividad</string>
+    <string name="title_activity_lugares_cusco">Map</string>
+    <string name="title_activity_maravillas_ant">Map</string>
+    <string name="title_activity_maravillas_moder">Map</string>
+    <string name="title_activity_rutas">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
